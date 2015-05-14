@@ -1,0 +1,1 @@
+document.head.appendChild(function(n,t){if(!window.setImmediate)n+=1;if(!window.Promise)n+=2;if(!window.fetch)n+=4;if(!window.WeakMap || !window.Map || !window.Set)n+=8;return t.src="file-"+n.toString(16)+".js",t.type="text/javascript",t}(0,document.createElement("script")))

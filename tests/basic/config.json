@@ -1,0 +1,3 @@
+{
+	"polyfills": ["set-immediate", "promise", "fetch", "collections"]
+}
